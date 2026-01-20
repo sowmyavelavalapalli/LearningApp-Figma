@@ -1,4 +1,4 @@
-# Mobile App UI/UX Design - Figma
+# LEARNING APP -- UI/UX Design - Figma
 ##overview
 This project focuses on designing a simple user friendly app that helps in learning. The goal is to create a design that helps to build it easily and more efficiently
 ## For this project I worked on
